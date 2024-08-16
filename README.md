@@ -1,5 +1,6 @@
 # Insurance-Price-Forecast
 The Methodology used here:
+
 • Implemented data preprocessing techniques including handling missing data, scaling, and feature engineering to prepare the insurance dataset for model training.
 
 • Developed a feature selection process using techniques such as correlation analysis and recursive feature elimination to improve model performance and reduce overfitting.
